@@ -1,0 +1,28 @@
+.nav-link {
+  font-size: 1.5rem;
+}
+
+nav {
+  background-color: rgba(252, 252, 252, 0.932);
+  border-bottom: 3px solid skyblue;
+}
+
+#home {
+  background-image: url(../images/mountain.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#home .bg-img {
+  background-color: #3293a6de;
+}
+
+.profile-card:hover {
+  background-color: #3292a6;
+  color: #FFF;
+}
+
+footer {
+  background-color: #3292a6;
+}
+/*# sourceMappingURL=style.css.map */
